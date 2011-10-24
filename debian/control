@@ -28,14 +28,3 @@ Description: flashcard learning program for KDE
  WordQuiz for Windows, the xml.gz format used by Pauker, and CSV text.
  .
  This package is part of the KDE education module.
-
-Package: kwordquiz-dbg
-Architecture: any
-Section: debug
-Priority: extra
-Depends: ${misc:Depends}, kde-runtime-dbg, kwordquiz (= ${binary:Version})
-Breaks: kdeedu-dbg
-Replaces: kdeedu-dbg
-Description: debugging symbols for kwordquiz
- This package contains debugging files used to investigate problems with
- binaries included in KWordQuiz
