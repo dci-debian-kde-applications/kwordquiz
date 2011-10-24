@@ -1,4 +1,6 @@
-Format: http://anonscm.debian.org/viewvc/dep/web/deps/dep5.mdwn?view=markup&pathrev=174
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: parley
+Source: https://projects.kde.org/projects/kde/kdeedu/kwordquiz
 
 Files: *
 Copyright: 2003-2010 Peter Hedlund <peter.hedlund@kdemail.net>
