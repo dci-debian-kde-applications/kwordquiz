@@ -1,6 +1,6 @@
-kwordquiz (4:4.7.2-1) UNRELEASED; urgency=low
+kwordquiz (4:4.7.2-0r0) UNRELEASED; urgency=low
 
   [ Felix Geyer ]
   * Initial release, based on the Kubuntu package.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 24 Oct 2011 23:55:41 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 26 Oct 2011 16:28:58 +0200
