@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>,
  José Manuel Santamaría Lema <panfaust@gmail.com>
-Build-Depends: kde-sc-dev-latest (>= 4:4.7.4),
+Build-Depends: kde-sc-dev-latest (>= 4:4.8.4),
  cmake, 
  debhelper (>= 7.3.16),
  pkg-kde-tools (>= 0.12),
@@ -20,7 +20,7 @@ Package: kwordquiz
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kdeedu-kvtml-data
 Suggests: khelpcenter4
-Description: flashcard learning program for KDE
+Description: flashcard learning program
  KWordQuiz is a general purpose flashcard program, typically used for
  vocabulary training.
  .
