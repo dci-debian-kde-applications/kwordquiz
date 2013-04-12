@@ -1,4 +1,4 @@
-kwordquiz (4:4.10.2-0r1) UNRELEASED; urgency=low
+kwordquiz (4:4.10.2-1) experimental; urgency=low
 
   * New upstream release.
 
@@ -6,7 +6,7 @@ kwordquiz (4:4.10.2-0r1) UNRELEASED; urgency=low
   * Bump the kde-sc-dev-latest and kdelibs5-dev build dependencies to 4.10.
   * Update Uploaders.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 12 Apr 2013 15:43:43 +0200
+ -- Sune Vuorela <sune@debian.org>  Fri, 12 Apr 2013 20:15:59 +0000
 
 kwordquiz (4:4.8.4-1) unstable; urgency=low
 
