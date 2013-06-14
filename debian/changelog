@@ -1,4 +1,4 @@
-kwordquiz (4:4.10.4-1) UNRELEASED; urgency=low
+kwordquiz (4:4.10.4-1) experimental; urgency=low
 
   * New upstream release.
   * Add watch file.
@@ -6,7 +6,7 @@ kwordquiz (4:4.10.4-1) UNRELEASED; urgency=low
   * Bump Standards-Version to 3.9.4.
   * Add myself to uploaders.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 12 Jun 2013 08:47:18 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 14 Jun 2013 14:31:24 +0200
 
 kwordquiz (4:4.10.2-1) experimental; urgency=low
 
