@@ -4,12 +4,12 @@ Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: kde-sc-dev-latest (>= 4:4.10),
- cmake, 
+Build-Depends: kde-sc-dev-latest (>= 4:4.11),
+ cmake,
  debhelper (>= 9),
  pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.10),
- libkdeedu-dev,
+ kdelibs5-dev (>= 4:4.11),
+ libkdeedu-dev (>= 4:4.11),
  libx11-dev
 Standards-Version: 3.9.4
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kwordquiz
