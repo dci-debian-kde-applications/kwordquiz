@@ -2,15 +2,14 @@ Source: kwordquiz
 Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Eshat Cakar <info@eshat.de>,
-           Maximiliano Curia <maxy@debian.org>
-Build-Depends: kde-sc-dev-latest (>= 4:4.11),
- cmake,
- debhelper (>= 9),
- pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.11),
- libkdeedu-dev (>= 4:4.11),
- libx11-dev
+Uploaders: Eshat Cakar <info@eshat.de>, Maximiliano Curia <maxy@debian.org>
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kde-sc-dev-latest (>= 4:4.11),
+               kdelibs5-dev (>= 4:4.11),
+               libkdeedu-dev (>= 4:4.11),
+               libx11-dev,
+               pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kwordquiz
 Vcs-Browser: http://anonscm.debian.org/git/pkg-kde/kde-sc/kwordquiz.git
@@ -18,7 +17,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kwordquiz.git
 
 Package: kwordquiz
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, kdeedu-kvtml-data
+Depends: kdeedu-kvtml-data, ${misc:Depends}, ${shlibs:Depends}
 Suggests: khelpcenter4
 Description: flashcard learning program
  KWordQuiz is a general purpose flashcard program, typically used for
