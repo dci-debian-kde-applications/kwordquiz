@@ -18,7 +18,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kwordquiz.git
 Package: kwordquiz
 Architecture: any
 Depends: kdeedu-kvtml-data, ${misc:Depends}, ${shlibs:Depends}
-Suggests: khelpcenter4
+Suggests: khelpcenter
 Description: flashcard learning program
  KWordQuiz is a general purpose flashcard program, typically used for
  vocabulary training.
