@@ -5,6 +5,9 @@ kwordquiz (4:14.12.2-1~) UNRELEASED; urgency=medium
   [ Scarlett Clark ]
   * Add back the kdelibs parent version depend.
 
+  [ Maximiliano Curia ]
+  * Bump Standards-Version to 3.9.6, no changes needed.
+
  -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 18:06:20 +0100
 
 kwordquiz (4:14.12.2-0ubuntu1) vivid; urgency=medium
