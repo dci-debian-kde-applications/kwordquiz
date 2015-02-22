@@ -1,13 +1,16 @@
-kwordquiz (4:14.12.2-0ubuntu2) UNRELEASED; urgency=medium
+kwordquiz (4:14.12.2-1~) UNRELEASED; urgency=medium
 
-  * Add back the kdelibs parent version depend. 
+  * New upstream release (14.12.2).
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 20 Feb 2015 14:12:30 -0800
+  [ Scarlett Clark ]
+  * Add back the kdelibs parent version depend.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 18:06:20 +0100
 
 kwordquiz (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 08:48:46 -0800
@@ -16,7 +19,7 @@ kwordquiz (4:14.12.0-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
   * Remove kdelibs5-dev depend version as there was not a new release.
-  * Remove libkdeedu-dev depend version as there was not a new release. 
+  * Remove libkdeedu-dev depend version as there was not a new release.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 15 Dec 2014 16:16:14 +0100
 
@@ -150,10 +153,10 @@ kwordquiz (4:4.7.4-2) unstable; urgency=low
 
 kwordquiz (4:4.7.4-1) experimental; urgency=low
 
-  * New upstream release. 
-  
+  * New upstream release.
+
   [ José Manuel Santamaría Lema ]
-  * Bump kde-sc-dev-latest build dependency to 4:4.7.4. 
+  * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
   * Add myself to Uploaders.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 18 Dec 2011 01:39:33 +0100
@@ -408,7 +411,7 @@ kwordquiz (4:4.8.2-0ubuntu1) precise; urgency=low
 
 kwordquiz (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 04 Mar 2012 20:59:28 +0100
 
@@ -444,10 +447,10 @@ kwordquiz (4:4.7.4-2) unstable; urgency=low
 
 kwordquiz (4:4.7.4-1) experimental; urgency=low
 
-  * New upstream release. 
-  
+  * New upstream release.
+
   [ José Manuel Santamaría Lema ]
-  * Bump kde-sc-dev-latest build dependency to 4:4.7.4. 
+  * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
   * Add myself to Uploaders.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 18 Dec 2011 01:39:33 +0100
@@ -493,7 +496,7 @@ kwordquiz (4:4.7.1-0ubuntu1) oneiric; urgency=low
 
 kwordquiz (4:4.7.0-0ubuntu1) oneiric; urgency=low
 
-  * New upstream release 
+  * New upstream release
   * use wildcard in install file
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 24 Jul 2011 23:48:00 +0200
@@ -507,4 +510,3 @@ kwordquiz (4:4.6.90+repack1-0ubuntu1) oneiric; urgency=low
     - kwordquiz-dbg breaks/replaces kdeedu-dbg
 
  -- Philip Muškovac <yofel@kubuntu.org>  Wed, 06 Jul 2011 15:17:57 +0200
-
