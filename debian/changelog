@@ -1,9 +1,14 @@
-kwordquiz (4:15.04.1-1~) UNRELEASED; urgency=medium
+kwordquiz (4:15.08.0-1) unstable; urgency=medium
 
-  * New upstream release (15.04.0).
+  * Upload to unstable
+
+  [ Maximiliano Curia ]
   * New upstream release (15.04.1).
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 18 May 2015 14:37:28 +0200
+  [ Scott Kitterman ]
+  * Update build-depends and debian/rules based on Kubuntu changes for 15.08.0
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 03 Sep 2015 16:47:56 -0400
 
 kwordquiz (4:14.12.3-1) experimental; urgency=medium
 
