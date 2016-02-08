@@ -1,8 +1,22 @@
-kwordquiz (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+kwordquiz (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Merged with Debian 
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:29:04 +0000
+ -- Clive Johnston <clivejo@aol.com>  Mon, 08 Feb 2016 21:02:31 +0000
+
+kwordquiz (4:15.12.1-1) experimental; urgency=medium
+
+  * New upstream release (15.12.0).
+  * New upstream release (15.12.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:24:36 +0100
+
+kwordquiz (4:15.08.3-1) unstable; urgency=medium
+
+  * New upstream release (15.08.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:40:10 +0100
 
 kwordquiz (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -11,11 +25,29 @@ kwordquiz (4:15.08.2-0ubuntu1) wily; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 12:54:37 +0100
 
+kwordquiz (4:15.08.1-1) unstable; urgency=medium
+
+  * New upstream release (15.08.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 02:45:14 +0200
+
 kwordquiz (4:15.08.1-0ubuntu1) wily; urgency=medium
 
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:36:24 +0100
+
+kwordquiz (4:15.08.0-1) unstable; urgency=medium
+
+  * Upload to unstable
+
+  [ Maximiliano Curia ]
+  * New upstream release (15.04.1).
+
+  [ Scott Kitterman ]
+  * Update build-depends and debian/rules based on Kubuntu changes for 15.08.0
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 03 Sep 2015 16:47:56 -0400
 
 kwordquiz (4:15.08.0-0ubuntu1) wily; urgency=medium
 
@@ -40,6 +72,12 @@ kwordquiz (4:15.04.2-0ubuntu1) wily; urgency=medium
   * New upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 19:41:30 +0200
+
+kwordquiz (4:14.12.3-1) experimental; urgency=medium
+
+  * New upstream release (14.12.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 29 Mar 2015 15:13:41 +0200
 
 kwordquiz (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
