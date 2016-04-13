@@ -1,3 +1,11 @@
+kwordquiz (4:15.12.1-2~1.gbpaf9178) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @af9178fb1735c5a9e34c85e91a80e3856708abd7 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:56:37 +0200
+
 kwordquiz (4:15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
