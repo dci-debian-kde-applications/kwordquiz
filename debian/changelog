@@ -1,10 +1,11 @@
-kwordquiz (4:15.12.1-2~1.gbpaf9178) UNRELEASED; urgency=medium
+kwordquiz (4:16.04.0-1~1.gbp1f12e4) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @af9178fb1735c5a9e34c85e91a80e3856708abd7 **
+  ** SNAPSHOT build @1f12e458351f754379e0713b46805f29d377e839 **
 
   * Bump Standards-Version to 3.9.8
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:56:37 +0200
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 01:52:14 +0200
 
 kwordquiz (4:15.12.1-1) experimental; urgency=medium
 
