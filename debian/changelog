@@ -1,10 +1,8 @@
-kwordquiz (4:16.08.0-1~1.gbp1a5ac1) UNRELEASED; urgency=medium
+kwordquiz (4:16.08.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @1a5ac1e49d4b7c7299e95d095ce5fc78384852f7 **
+  * New upstream release (16.08.0)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 19:52:16 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 12:43:05 +0200
 
 kwordquiz (4:16.04.0-1) unstable; urgency=medium
 
