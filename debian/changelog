@@ -1,10 +1,11 @@
-kwordquiz (4:16.08.0-2~1.gbpa9c429) UNRELEASED; urgency=medium
+kwordquiz (4:16.08.3-1~1.gbpb6ff04) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @a9c429b10d2332408d2970692bf8d52faef063b5 **
+  ** SNAPSHOT build @b6ff04027f90223dda7f4d480e5aa50c54db35cf **
 
   * Update build-deps and deps with the info from cmake
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 19 Oct 2016 13:52:31 +0200
+ -- Automatic packaging <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 19:52:30 +0100
 
 kwordquiz (4:16.08.0-1) unstable; urgency=medium
 
