@@ -1,6 +1,7 @@
-kwordquiz (4:17.08.3-0r1) UNRELEASED; urgency=medium
+kwordquiz (4:17.08.3-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
+  * Upload to unstable.
   * New upstream release.
   * Adjust l10npkgs_firstversion_ok to the version where kde-l10n will
     drop translations.
@@ -9,7 +10,7 @@ kwordquiz (4:17.08.3-0r1) UNRELEASED; urgency=medium
   * Remove unused build dependencies: libkf5declarative-dev,
     libkf5iconthemes-dev, libkf5kio-dev, libkf5sonnet-dev, and libx11-dev.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 02 Dec 2017 08:53:21 +0100
+ -- Pino Toscano <pino@debian.org>  Sat, 02 Dec 2017 09:05:50 +0100
 
 kwordquiz (4:17.08.1-1) experimental; urgency=medium
 
